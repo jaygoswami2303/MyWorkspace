@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Your Home Planet, as Seen From Mars</title>
+ <link>http://www.nasa.gov/feature/jpl/earth-and-its-moon-as-seen-from-mars</link>
+ <description>Here is a view of Earth and its moon, as seen from Mars. It combines two images acquired on Nov. 20, 2016, by the HiRISE camera on NASA&#039;s Mars Reconnaissance Orbiter, with brightness adjusted separately for Earth and the moon to show details on both bodies.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia21260.jpg" length="78901" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/earth-and-its-moon-as-seen-from-mars</guid>
+ <pubDate>Fri, 06 Jan 2017 13:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Abell 3411 and Abell 3412: Astronomers Discover Powerful Cosmic Double Whammy</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/abell-3411-and-abell-3412-astronomers-discover-powerful-cosmic-double-whammy.html</link>
+ <description>Astronomers have discovered what happens when the eruption from a supermassive black hole is swept up by the collision and merger of two galaxy clusters.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a3411.jpg" length="6882418" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/abell-3411-and-abell-3412-astronomers-discover-powerful-cosmic-double-whammy.html</guid>
+ <pubDate>Thu, 05 Jan 2017 10:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hues in a Crater Slope</title>
+ <link>http://www.nasa.gov/image-feature/hues-in-a-crater-slope</link>
+ <description>Impact craters expose the subsurface materials on the steep slopes of Mars. However, these slopes often experience rockfalls and debris avalanches that keep the surface clean of dust, revealing a variety of hues, like in this enhanced-color image from NASA&#039;s Mars Reconnaissance Orbiter, representing different rock types.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia14454.jpg" length="743080" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hues-in-a-crater-slope</guid>
+ <pubDate>Wed, 04 Jan 2017 11:18 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Send in the Clouds</title>
+ <link>http://www.nasa.gov/image-feature/jpl/send-in-the-clouds</link>
+ <description>Floating high above the hydrocarbon lakes, wispy clouds have finally started to return to Titan&#039;s northern latitudes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20516-1041.jpg" length="389086" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/send-in-the-clouds</guid>
+ <pubDate>Tue, 03 Jan 2017 10:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Small Satellite Deployed From the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/small-satellite-deployed-from-the-space-station</link>
+ <description>A satellite is ejected from the Japan Aerospace Exploration Agency (JAXA) Small Satellite Orbital Deployer on the International Space Station on Dec. 19, 2016. The satellite is actually two small satellites that, once at a safe distance from the station, separated from each other, but were still connected by a 100-meter-long Kevlar tether.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss050e017076.jpg" length="1851068" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/small-satellite-deployed-from-the-space-station</guid>
+ <pubDate>Fri, 30 Dec 2016 11:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Gazes at a Cosmic Megamaser</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-gazes-at-a-cosmic-megamaser</link>
+ <description>This galaxy acts as an astronomical laser, beaming out microwave emission rather than visible light.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1652a.jpg" length="161183" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2016/hubble-gazes-at-a-cosmic-megamaser</guid>
+ <pubDate>Thu, 29 Dec 2016 10:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Basking in Light</title>
+ <link>http://www.nasa.gov/image-feature/basking-in-light</link>
+ <description>Sunlight truly has come to Saturn&#039;s north pole. The whole northern region is bathed in sunlight in this view from late 2016, feeble though the light may be at Saturn&#039;s distant domain in the solar system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20513_0.jpg" length="160648" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/basking-in-light</guid>
+ <pubDate>Wed, 28 Dec 2016 11:14 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Lights in the Darkness</title>
+ <link>http://www.nasa.gov/image-feature/lights-in-the-darkness</link>
+ <description>Just hours after the winter solstice, a mass of energetic particles from the Sun smashed into the magnetic field around Earth. The strong solar wind stream stirred up a display of northern lights over northern Canada.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/aurora_vir_2016357_lrg.jpg" length="4072771" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/lights-in-the-darkness</guid>
+ <pubDate>Tue, 27 Dec 2016 11:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronaut Peggy Whitson in the Festive Spirit</title>
+ <link>http://www.nasa.gov/image-feature/astronaut-peggy-whitson-in-the-festive-spirit-0</link>
+ <description>Aboard the International Space Station, Expedition 50 Flight Engineer Peggy Whitson of NASA sent holiday greetings and festive imagery from the cupola on Dec. 18.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss050e017211.jpg" length="2055638" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronaut-peggy-whitson-in-the-festive-spirit-0</guid>
+ <pubDate>Thu, 22 Dec 2016 17:58 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Pandora Up Close</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia21055/pandora-up-close</link>
+ <description>This image from NASA&#039;s Cassini spacecraft is one of the highest-resolution views ever taken of Saturn&#039;s moon Pandora. Pandora (84 kilometers, or 52 miles across) orbits Saturn just outside the narrow F ring.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia21055-1041.jpg" length="65256" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia21055/pandora-up-close</guid>
+ <pubDate>Thu, 22 Dec 2016 08:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>This Week in NASA History: First Crewed Saturn V Mission Launches -- Dec. 21, 1968</title>
+ <link>http://www.nasa.gov/centers/marshall/history/this-week-in-nasa-history-first-crewed-saturn-v-mission-launches-dec-21-1968.html</link>
+ <description>This week in 1968, Apollo 8, the first crewed Saturn V launched from NASA&#039;s Kennedy Space Center on Dec. 21, 1968. Here, the S-IC stage is being erected for final assembly of the Saturn V launch vehicle in Kennedy&#039;s Vehicle Assembly Building.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/6761894-orig.jpg" length="8265418" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/history/this-week-in-nasa-history-first-crewed-saturn-v-mission-launches-dec-21-1968.html</guid>
+ <pubDate>Wed, 21 Dec 2016 13:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>International Space Station Solar Transit</title>
+ <link>http://www.nasa.gov/image-feature/international-space-station-solar-transit</link>
+ <description>This composite image, made from ten frames, shows the International Space Station, with a crew of six onboard, in silhouette as it transits the sun at roughly five miles per second, Saturday, Dec. 17, 2016, from Newbury Park, California.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30903636564_0127bfba48_o.jpg" length="307752" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/international-space-station-solar-transit</guid>
+ <pubDate>Tue, 20 Dec 2016 09:37 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cosmic ‘Winter’ Wonderland</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/cosmic-winter-wonderland.html</link>
+ <description>Although there are no seasons in space, this cosmic vista invokes thoughts of a frosty winter landscape. It is, in fact, a region called NGC 6357 where radiation from hot, young stars is energizing the cooler gas in the cloud that surrounds them.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ngc6357.jpg" length="9803323" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/cosmic-winter-wonderland.html</guid>
+ <pubDate>Mon, 19 Dec 2016 09:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble &quot;Crane-s&quot; in for a Closer Look at a Galaxy</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-cranes-in-for-a-closer-look-at-a-galaxy</link>
+ <description>Spiral galaxy IC 5201 sits 40 million light-years from us in the Crane constellation. As with most spirals we see, it has a bar of stars slicing through its center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1650a.jpg" length="448427" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2016/hubble-cranes-in-for-a-closer-look-at-a-galaxy</guid>
+ <pubDate>Fri, 16 Dec 2016 10:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>View of NASA&#039;s CYGNSS Hurricane Mission Launch From Chase Plane</title>
+ <link>http://www.nasa.gov/image-feature/view-of-nasas-cygnss-hurricane-mission-launch-from-chase-plane</link>
+ <description>Hurricane forecasters will soon have a new tool to better understand and forecast storm intensity. A constellation of eight microsatellites, called NASA’s Cyclone Global Navigation Satellite System mission, or CYGNSS, got a boost into Earth orbit aboard an Orbital ATK Pegasus XL rocket, deployed from an L-1011 aircraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/g0043192.jpg" length="3152107" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/view-of-nasas-cygnss-hurricane-mission-launch-from-chase-plane</guid>
+ <pubDate>Thu, 15 Dec 2016 11:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Color Variations on Mount Sharp, Mars</title>
+ <link>http://www.nasa.gov/image-feature/color-variations-on-mount-sharp-mars</link>
+ <description>The foreground of this scene from the Mast Camera (Mastcam) on NASA&#039;s Curiosity Mars rover shows purple-hued rocks near the rover&#039;s late-2016 location on lower Mount Sharp. The scene&#039;s middle distance includes higher layers that are future destinations for the mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia21256_sol1516mrseq07719-nolabels.jpg" length="3111407" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/color-variations-on-mount-sharp-mars</guid>
+ <pubDate>Wed, 14 Dec 2016 11:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>HTV-6 Cargo Craft Approaches Space Station</title>
+ <link>http://www.nasa.gov/image-feature/htv6-cargo-craft-approaches-space-station</link>
+ <description>Expedition 50 Commander Shane Kimbrough of NASA shared this photograph of the Japan Aerospace Exploration Agency’s Kounotori H-II Transfer Vehicle (HTV-6) as it approached the International Space Station. Kimbrough and Flight Engineer Thomas Pesquet successfully captured the spacecraft using the station&#039;s Canadarm2 robotic arm.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/czj8bxlw8aapi4b.jpg" length="336312" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/htv6-cargo-craft-approaches-space-station</guid>
+ <pubDate>Tue, 13 Dec 2016 12:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Coolest Landscape on Mars (or Earth)</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia21216/the-coolest-landscape-on-mars-or-earth</link>
+ <description>Many Martian landscapes contain features that are familiar to ones we find on Earth, like river valleys, cliffs, glaciers and volcanos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia21216.jpg" length="375807" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia21216/the-coolest-landscape-on-mars-or-earth</guid>
+ <pubDate>Mon, 12 Dec 2016 09:54 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Sunrise With Solar Array</title>
+ <link>http://www.nasa.gov/image-feature/sunrise-with-solar-array</link>
+ <description>Astronaut Thomas Pesquet of the European Space Agency captured this photograph from the International Space Station on Nov. 25, 2016, and shared it on social media, writing, &quot;Sunrises. We experience 16 sunrises every 24 hours on the International Space Station as it takes us 90 minutes to do a complete orbit of our planet flying at 28,800 km/h.&quot;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/31430281685_5bf35c011d_o.jpg" length="3132930" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/sunrise-with-solar-array</guid>
+ <pubDate>Fri, 09 Dec 2016 11:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Linear Dunes, Namib Sand Sea</title>
+ <link>http://www.nasa.gov/image-feature/linear-dunes-namib-sand-sea</link>
+ <description>An astronaut aboard the International Space Station (ISS) used a long lens to document what crews have termed one of the most spectacular features of the planet: the dunes of the Namib Sand Sea.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss047e023405_lrg.jpg" length="5944258" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/linear-dunes-namib-sand-sea</guid>
+ <pubDate>Thu, 08 Dec 2016 07:02 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Oceanic Nonlinear Internal Solitary Waves From the Lombok Strait</title>
+ <link>http://www.nasa.gov/image-feature/oceanic-nonlinear-internal-solitary-waves-from-the-lombok-strait</link>
+ <description>On November 1, 2016, NASA’s Aqua satellite passed over Indonesia, allowing the Moderate Resolution Imaging Spectroradiometer (MODIS) on board to capture a stunning true-color image of oceanic nonlinear internal solitary waves from the Lombok Strait.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/image11052016_250m.jpg" length="777770" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/oceanic-nonlinear-internal-solitary-waves-from-the-lombok-strait</guid>
+ <pubDate>Wed, 07 Dec 2016 07:37 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Sahara Desert From the Space Station&#039;s EarthKAM</title>
+ <link>http://www.nasa.gov/image-feature/sahara-desert-from-the-space-stations-earthkam</link>
+ <description>Middle school students programmed a camera aboard the International Space Station -- the Sally Ride EarthKAM -- to photograph this portion of the Sahara desert in western Libya on October 3, 2016. The Expedition 50 crew set up the EarthKAM gear in the Harmony module’s Earth-facing hatch window, to allow students to photograph targets on Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ccfid_113386_2016277154705_image.jpg" length="5320086" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/sahara-desert-from-the-space-stations-earthkam</guid>
+ <pubDate>Tue, 06 Dec 2016 07:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Chaos at Hyperion</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia20512/chaos-at-hyperion</link>
+ <description>The moon Hyperion tumbles as it orbits Saturn.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20512-1041x398.jpg" length="14434" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia20512/chaos-at-hyperion</guid>
+ <pubDate>Mon, 05 Dec 2016 10:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hidden Figures Premiere and Award Ceremony</title>
+ <link>http://www.nasa.gov/image-feature/hidden-figures-premiere-and-award-ceremony-0</link>
+ <description>Actress Octavia Spencer, left, who plays Dorothy Vaughan in the film &quot;Hidden Figures&quot; and NASA Administrator Charles Bolden, right, greet NASA research mathematician Katherine Johnson, at a reception to honor NASA&#039;s &quot;human computers&quot; on Thursday, Dec. 1, 2016, at the Virginia Air and Space Center in Hampton, VA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30996939630_ec3dc9a77c_o.jpg" length="3154791" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hidden-figures-premiere-and-award-ceremony-0</guid>
+ <pubDate>Fri, 02 Dec 2016 11:26 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Rift in Antarctica&#039;s Larsen C Ice Shelf</title>
+ <link>http://www.nasa.gov/image-feature/rift-in-antarcticas-larsen-c-ice-shelf</link>
+ <description>On Nov. 10, 2016, scientists on NASA&#039;s IceBridge mission photographed an oblique view of a massive rift in the Antarctic Peninsula&#039;s Larsen C ice shelf. Icebridge, an airborne survey of polar ice, completed an eighth consecutive Antarctic deployment on Nov. 18.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/cxaovzcwqaa0nll.jpg" length="462802" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/rift-in-antarcticas-larsen-c-ice-shelf</guid>
+ <pubDate>Thu, 01 Dec 2016 07:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA&#039;s Webb Telescope Clean Room &#039;Transporter&#039;</title>
+ <link>http://www.nasa.gov/image-feature/nasas-webb-telescope-clean-room-transporter</link>
+ <description>What looks like a teleporter from science fiction being draped over NASA&#039;s James Webb Space Telescope, is actually a &quot;clean tent.&quot; The clean tent protects Webb from dust and dirt when engineers at NASA&#039;s Goddard Space Flight Center transport the telescope out of the relatively dust-free cleanroom and into the vibration and acoustics testing areas.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/tent2_0.jpg" length="2494640" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasas-webb-telescope-clean-room-transporter</guid>
+ <pubDate>Wed, 30 Nov 2016 09:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Fiery South Atlantic Sunset</title>
+ <link>http://www.nasa.gov/image-feature/fiery-south-atlantic-sunset</link>
+ <description>An astronaut aboard the International Space Station photographed a sunset that looks like a vast sheet of flame. With Earth’s surface already in darkness, the setting sun, the cloud masses, and the sideways viewing angle make a powerful image of the kind that astronauts use to commemorate their flights.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss049e049442_lrg.jpg" length="7159466" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/fiery-south-atlantic-sunset</guid>
+ <pubDate>Tue, 29 Nov 2016 10:01 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Tiny Mimas, Huge Rings</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia20509/tiny-mimas-huge-rings</link>
+ <description>Saturn&#039;s icy moon Mimas is dwarfed by the planet&#039;s enormous rings.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20509-1041.jpg" length="434218" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia20509/tiny-mimas-huge-rings</guid>
+ <pubDate>Mon, 28 Nov 2016 10:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Celebrating Thanksgiving Aboard the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/celebrating-thanksgiving-aboard-the-international-space-station</link>
+ <description>The six Expedition 50 crew members celebrate Thanksgiving in space, Nov. 24, 2016, with rehydrated turkey, stuffing, potatoes and vegetables.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/cydlkybweaewesk.jpg_orig.jpeg" length="379218" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/celebrating-thanksgiving-aboard-the-international-space-station</guid>
+ <pubDate>Thu, 24 Nov 2016 16:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Prototype of Space Station&#039;s Advanced Plant Habitat</title>
+ <link>http://www.nasa.gov/image-feature/prototype-of-space-stations-advanced-plant-habitat</link>
+ <description>A high fidelity test version of NASA’s Advanced Plant Habitat (APH), the largest plant chamber built for the agency, arrived at Kennedy Space Center the third week of November, 2016. The APH unit, containing small flowering plant seeds, will be delivered to the International Space Station in 2017.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30795688500_ed64d9f74b_o.jpg" length="5951783" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/prototype-of-space-stations-advanced-plant-habitat</guid>
+ <pubDate>Wed, 23 Nov 2016 07:19 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Spies Spiral Galaxy</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-spies-spiral-galaxy</link>
+ <description>Spiral galaxy NGC 3274 is a relatively faint galaxy located over 20 million light-years away in the constellation of Leo (The Lion).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1647a.jpg" length="4306438" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2016/hubble-spies-spiral-galaxy</guid>
+ <pubDate>Tue, 22 Nov 2016 09:04 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Faint F Ring and Prometheus</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia20508/faint-f-ring-and-prometheus</link>
+ <description>Surface features are visible on Saturn&#039;s moon Prometheus in this view from NASA&#039;s Cassini spacecraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20508-1041.jpg" length="128303" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia20508/faint-f-ring-and-prometheus</guid>
+ <pubDate>Mon, 21 Nov 2016 10:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>GOES-R Weather Satellite Ready For Launch</title>
+ <link>http://www.nasa.gov/image-feature/goes-r-weather-satellite-ready-for-launch</link>
+ <description>The United Launch Alliance Atlas V rocket and its GOES-R payload at the launchpad as preparations continue for launch at 5:42 p.m. EST, Saturday, Nov. 19, from Space Launch Complex 41.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ksc-20161118-ph_jbs01_0112.jpg" length="10362355" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goes-r-weather-satellite-ready-for-launch</guid>
+ <pubDate>Sat, 19 Nov 2016 08:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 50 Crew Launches to the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/expedition-50-crew-launches-to-the-international-space-station</link>
+ <description>In this one second exposure photograph, the Soyuz MS-03 spacecraft is seen launching from the Baikonur Cosmodrome with Expedition 50 crewmembers NASA astronaut Peggy Whitson, Russian cosmonaut Oleg Novitskiy of Roscosmos, and ESA astronaut Thomas Pesquet from the Baikonur Cosmodrome in Kazakhstan, Friday, Nov. 18, 2016, Kazakh time (Nov 17 EST).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/31068115625_9b0dd3bcba_o.jpg" length="2344537" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-50-crew-launches-to-the-international-space-station</guid>
+ <pubDate>Fri, 18 Nov 2016 10:20 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 50 Crew Waves Farewell</title>
+ <link>http://www.nasa.gov/image-feature/expedition-50-crew-waves-farewell</link>
+ <description>Expedition 50 crewmembers ESA astronaut Thomas Pesquet, top, NASA astronaut Peggy Whitson, middle, and Russian cosmonaut Oleg Novitskiy of Roscosmos wave farewell before boarding their Soyuz MS-03 spacecraft for launch Thursday, Nov. 17, 2016, (Kazakh Time) in Baikonur, Kazakhstan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq201611170001.jpg" length="2450357" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-50-crew-waves-farewell</guid>
+ <pubDate>Thu, 17 Nov 2016 14:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cloudscape Over the Philippine Sea</title>
+ <link>http://www.nasa.gov/image-feature/cloudscape-over-the-philippine-sea</link>
+ <description>Flying over the Philippine Sea, an astronaut looked toward the horizon from the International Space Station and shot this photograph of three-dimensional clouds, the thin blue envelope of the atmosphere, and the blackness of space. The late afternoon sunlight brightens a broad swath of the sea surface on the right side of the image.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss048e010018_lrg_0.jpg" length="5091990" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/cloudscape-over-the-philippine-sea</guid>
+ <pubDate>Wed, 16 Nov 2016 10:45 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>November 15, 1966: Gemini XII Crew Returns to Earth</title>
+ <link>http://www.nasa.gov/image-feature/november-15-1966-gemini-xii-crew-returns-to-earth</link>
+ <description>Following the Gemini XII splashdown on Nov. 15, 1966, astronauts Buzz Aldrin, left, and Jim Lovell are welcomed aboard the recovery aircraft carrier, USS Wasp, concluding their four-day mission. Gemini XII was the final flight of the Gemini program, a bridge between the Mercury and Apollo programs.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/12-gemini_12_recovery-23jpg.jpg" length="775246" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/november-15-1966-gemini-xii-crew-returns-to-earth</guid>
+ <pubDate>Tue, 15 Nov 2016 10:08 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Supermoon and Expedition 50 Soyuz</title>
+ <link>http://www.nasa.gov/image-feature/supermoon-and-expedition-50-soyuz</link>
+ <description>The moon, or supermoon, is seen rising behind the Soyuz rocket at the Baikonur Cosmodrome launch pad in Kazakhstan, Monday, Nov. 14, 2016. NASA astronaut Peggy Whitson, Russian cosmonaut Oleg Novitskiy of Roscosmos, and ESA astronaut Thomas Pesquet will launch from the Baikonur Cosmodrome to the International Space Station at 3:20 p.m. EST Nov. 17.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30678128460_542587097d_o.jpg" length="1893342" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/supermoon-and-expedition-50-soyuz</guid>
+ <pubDate>Mon, 14 Nov 2016 09:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Getting to Know the Getz Ice Shelf</title>
+ <link>http://www.nasa.gov/image-feature/getting-to-know-the-getz-ice-shelf</link>
+ <description>As scientists and crew with NASA’s Operation IceBridge mission prepared for a research flight on Nov. 5, 2016, the weather in Punta Arenas, Chile, was cold, wet, and windy. But when they reached their survey site in West Antarctica, skies were clear and winds were calm—a perfect day for scientists to collect data over the Getz Ice Shelf.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/getz_photo_2016310_lrg.jpg" length="1460161" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/getting-to-know-the-getz-ice-shelf</guid>
+ <pubDate>Thu, 10 Nov 2016 09:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Wind Carved Rock on Mars</title>
+ <link>http://www.nasa.gov/image-feature/wind-carved-rock-on-mars</link>
+ <description>The distinctively fluted surface and elongated hills in this image in Medusae Fossae are caused by wind erosion of a soft fine-grained rock. Called yardangs, these features are aligned with the prevailing wind direction. This wind direction would have dominated for a very long time to carve these large-scale features into the exposed rock.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/esp_046504_1785.jpg" length="5109112" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/wind-carved-rock-on-mars</guid>
+ <pubDate>Wed, 09 Nov 2016 11:05 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Election Day 2016</title>
+ <link>http://www.nasa.gov/image-feature/election-day-2016</link>
+ <description>Thanks to a bill passed by Texas legislators that put in place technical voting procedure for astronauts, they have the ability to vote from space through specially designed absentee ballots. To preserve the integrity of the secret vote, the ballot is encrypted and only accessible by the astronaut and the county clerk responsible for casting it.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e105414.jpg" length="2082405" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/election-day-2016</guid>
+ <pubDate>Tue, 08 Nov 2016 11:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Ring Details on Display</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia20506/ring-details-on-display</link>
+ <description>This view from NASA&#039;s Cassini spacecraft showcases some of the amazingly detailed structure of Saturn&#039;s rings.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20506-1041.jpg" length="101611" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia20506/ring-details-on-display</guid>
+ <pubDate>Mon, 07 Nov 2016 10:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Takes Flight with the Toucan and the Cluster</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-takes-flight-with-the-toucan-and-the-cluster</link>
+ <description>NGC 299 is an open star cluster located within the Small Magellanic Cloud just under 200,000 light-years away.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1642a.jpg" length="409447" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2016/hubble-takes-flight-with-the-toucan-and-the-cluster</guid>
+ <pubDate>Fri, 04 Nov 2016 10:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Orion Crew Module Underway Recovery Testing</title>
+ <link>http://www.nasa.gov/image-feature/orion-crew-module-underway-recovery-testing</link>
+ <description>U.S. Navy divers and other personnel in a rigid hull Zodiac boat have attached tether lines to a test version of the Orion crew module during Underway Recovery Test 5 in the Pacific Ocean off the coast of California. NASA and the U.S. Navy are conducting a series of tests to practice for recovery of Orion on its return from deep space missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30660444486_d4a4e649d8_o.jpg" length="241137" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/orion-crew-module-underway-recovery-testing</guid>
+ <pubDate>Thu, 03 Nov 2016 10:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>James Webb Space Telescope Mirrors Will Piece Together Cosmic Puzzles</title>
+ <link>http://www.nasa.gov/image-feature/james-webb-space-telescope-mirrors-will-piece-together-cosmic-puzzles</link>
+ <description>The primary mirror of NASA&#039;s James Webb Space Telescope that consists of 18 hexagonal mirrors looks like a giant puzzle piece standing in the massive clean room of NASA&#039;s Goddard Space Flight Center in Greenbelt, Maryland. The telescope will help piece together puzzles scientists have been trying to solve throughout the cosmos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/otispostcocrev2.jpg" length="1162307" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/james-webb-space-telescope-mirrors-will-piece-together-cosmic-puzzles</guid>
+ <pubDate>Wed, 02 Nov 2016 08:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Prototype Capture System, Mock Asteroid Help Simulate Mission Sequence</title>
+ <link>http://www.nasa.gov/image-feature/prototype-capture-system-mock-asteroid-help-simulate-mission-sequence</link>
+ <description>A prototype of the Asteroid Redirect Mission (ARM) robotic capture module system is tested with a mock asteroid boulder in its clutches at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. The robotic portion of ARM is targeted for launch in 2021.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/arm-prototype.jpg" length="2177921" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/prototype-capture-system-mock-asteroid-help-simulate-mission-sequence</guid>
+ <pubDate>Tue, 01 Nov 2016 08:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Rains of Terror on Exoplanet HD 189733b</title>
+ <link>http://www.nasa.gov/image-feature/rains-of-terror-on-exoplanet-hd-189733b</link>
+ <description>This Halloween, take a tour with NASA&#039;s Exoplanet Exploration site of some of the most terrifying destinations in our galaxy. The nightmare world of HD 189733 b is the killer you never see coming. To the human eye, this far-off planet looks bright blue. But any space traveler confusing it with the friendly skies of Earth would be badly mistaken.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/heic1312a.jpg" length="1765300" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/rains-of-terror-on-exoplanet-hd-189733b</guid>
+ <pubDate>Mon, 31 Oct 2016 13:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 49 Soyuz Spacecraft Landing</title>
+ <link>http://www.nasa.gov/image-feature/expedition-49-soyuz-spacecraft-landing</link>
+ <description>The Soyuz MS-01 spacecraft is seen as it lands with Expedition 49 crew members NASA astronaut Kate Rubins, Russian cosmonaut Anatoly Ivanishin of Roscosmos, and astronaut Takuya Onishi of the Japan Aerospace Exploration Agency (JAXA) near the town of Zhezkazgan, Kazakhstan on Sunday, Oct. 30, 2016 (Kazakh time).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq201610300010.jpg" length="1002370" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-49-soyuz-spacecraft-landing</guid>
+ <pubDate>Sun, 30 Oct 2016 01:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Astronaut Kate Rubins Prepares For the Journey Home</title>
+ <link>http://www.nasa.gov/image-feature/nasa-astronaut-kate-rubins-prepares-for-the-journey-home</link>
+ <description>NASA astronaut Kate Rubins is pictured inside of the Soyuz MS-01 spacecraft while conducting routine spacesuit checks. The Expedition 49 trio of Rubins, JAXA astronaut Takuya Onishi and cosmonaut Anatoly Ivanishin are scheduled to undock their Soyuz on Saturday, Oct. 29, and land at 11:59 p.m. EDT.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30428935312_c69b2ff100_o.jpg" length="3498939" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-astronaut-kate-rubins-prepares-for-the-journey-home</guid>
+ <pubDate>Fri, 28 Oct 2016 10:42 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>First Pass of Echo 1 Satellite Over the Goldstone Tracking Station</title>
+ <link>http://www.nasa.gov/image-feature/first-pass-of-echo-1-satellite-over-the-goldstone-tracking-station</link>
+ <description>This photograph shows the first pass of Echo 1, America’s first communications satellite, over the Goldstone Tracking Station managed by NASA’s Jet Propulsion Laboratory, in Pasadena, California, in the early morning of Aug. 12, 1960. The movement of the antenna, star trails, and Echo 1 (the long streak in the middle) are visible in this image.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia21114_p1446b-1600x1200.jpg" length="1014350" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/first-pass-of-echo-1-satellite-over-the-goldstone-tracking-station</guid>
+ <pubDate>Thu, 27 Oct 2016 12:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Paw Paw Bends</title>
+ <link>http://www.nasa.gov/image-feature/paw-paw-bends</link>
+ <description>The Operational Land Imager (OLI) on Landsat 8 captured this image of the Potomac River and canal on September 27, 2016. The image shows the stretch between Hancock and Cumberland, Maryland—about 97 kilometers (60 miles) if you were to hike or bike along the towpath between these two towns. West Virginia is south of the river.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pawpawbends_oli_2016271_lrg.jpg" length="10546896" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/paw-paw-bends</guid>
+ <pubDate>Wed, 26 Oct 2016 13:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cygnus Spacecraft Attached to Space Station&#039;s Unity Module</title>
+ <link>http://www.nasa.gov/image-feature/cygnus-spacecraft-attached-to-space-stations-unity-module</link>
+ <description>Orbital ATK&#039;s Cygnus cargo craft (left) is seen from the Cupola module windows aboard the International Space Station on Oct. 23, 2016. The main robotic work station for controlling the Canadarm2 robotic arm is located inside the Cupola and was used to capture Cygnus upon its arrival.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30509478486_5fff4559ab_o.jpg" length="1950293" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/cygnus-spacecraft-attached-to-space-stations-unity-module</guid>
+ <pubDate>Tue, 25 Oct 2016 10:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Spins a Web Into a Giant Red Spider Nebula</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-spins-a-web-into-a-giant-red-spider-nebula</link>
+ <description>Huge waves are sculpted in this two-lobed nebula called the Red Spider Nebula, located some 3,000 light-years away in the constellation of Sagittarius.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/heic0109a.jpg" length="1669930" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2016/hubble-spins-a-web-into-a-giant-red-spider-nebula</guid>
+ <pubDate>Fri, 21 Oct 2016 07:42 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Jupiterrise</title>
+ <link>http://www.nasa.gov/image-feature/jupiterrise</link>
+ <description>This image of the sunlit part of Jupiter and its swirling atmosphere was created by a citizen scientist (Alex Mai) using data from Juno&#039;s JunoCam instrument. JunoCam&#039;s raw images are available at www.missionjuno.swri.edu/junocam for the public to peruse and process into image products.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia21108_0.jpg" length="47503" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jupiterrise</guid>
+ <pubDate>Thu, 20 Oct 2016 10:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 49 Launch to the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/expedition-49-launch-to-the-international-space-station</link>
+ <description>The Soyuz MS-02 rocket is launched with Expedition 49 Soyuz commander Sergey Ryzhikov of Roscosmos, flight engineer Shane Kimbrough of NASA, and flight engineer Andrey Borisenko of Roscosmos, Wednesday, Oct. 19, 2016 at the Baikonur Cosmodrome. The crew will spend the next four months living and working aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/30337466261_fe90aa9aed_o.jpg" length="326533" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-49-launch-to-the-international-space-station</guid>
+ <pubDate>Wed, 19 Oct 2016 11:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Liftoff of Antares Rocket From NASA Wallops Flight Facility, Virginia</title>
+ <link>http://www.nasa.gov/image-feature/liftoff-of-antares-rocket-from-nasa-wallops-flight-facility-virginia</link>
+ <description>The Orbital ATK Antares rocket, with the Cygnus spacecraft onboard, launches from Pad-0A, Monday, October 17, 2016 at NASA&#039;s Wallops Flight Facility in Virginia. Cygnus is delivering over 5,100 pounds of science and research, supplies and hardware to the space station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq201610170106.jpg" length="3699930" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/liftoff-of-antares-rocket-from-nasa-wallops-flight-facility-virginia</guid>
+ <pubDate>Mon, 17 Oct 2016 23:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Orbital ATK Cargo Mission Set For Launch to Space Station</title>
+ <link>http://www.nasa.gov/image-feature/orbital-atk-cargo-mission-set-for-launch-to-space-station</link>
+ <description>The Orbital ATK Antares rocket, with the Cygnus spacecraft onboard, is seen on launch Pad-0A as the moon sets, predawn, Saturday, Oct. 15, 2016 at NASA&#039;s Wallops Flight Facility in Virginia. Orbital ATK’s cargo resupply mission will deliver over 5,100 pounds of science and research, supplies and hardware to the space station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/29706136403_1fba77ce5f_o_1.jpg" length="2551195" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/orbital-atk-cargo-mission-set-for-launch-to-space-station</guid>
+ <pubDate>Mon, 17 Oct 2016 12:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Antares Rocket Raising</title>
+ <link>http://www.nasa.gov/image-feature/antares-rocket-raising</link>
+ <description>The Orbital ATK Antares rocket, with the Cygnus spacecraft onboard, is raised into the vertical position on launch Pad-0A, Friday, Oct. 14, 2016, at NASA&#039;s Wallops Flight Facility. Scheduled to launch Oct. 16, Orbital ATK’s cargo resupply mission will deliver over 5,100 pounds of science and research, supplies and hardware to the space station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/29690070064_14745822ac_o.jpg" length="3403174" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/antares-rocket-raising</guid>
+ <pubDate>Fri, 14 Oct 2016 15:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Laser-Sharp View of Blended Wing Body Plane Design</title>
+ <link>http://www.nasa.gov/image-feature/langley/a-laser-sharp-view-of-blended-wing-body-plane-design</link>
+ <description>Engineers at NASA&#039;s Langley Research Center in Hampton, Virginia, used lasers inside the 14- by 22-Foot Subsonic Tunnel to map how air flows over a Boeing Blended Wing Body (BWB) model – a greener, quieter airplane design under development.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/lrc_2016_h1_p_bwblasertest-100601.jpg" length="4797038" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/langley/a-laser-sharp-view-of-blended-wing-body-plane-design</guid>
+ <pubDate>Thu, 13 Oct 2016 09:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Inspecting the Space Station&#039;s Expandable Habitat</title>
+ <link>http://www.nasa.gov/image-feature/inspecting-the-space-stations-expandable-habitat</link>
+ <description>NASA astronaut Kate Rubins inspected the Bigelow Aerospace Expandable Activity Module (BEAM) attached to the International Space Station. Expandable habitats are designed to take up less room on a spacecraft while providing greater volume for living and working in space once expanded.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/29637425124_af9670e5de_o.jpg" length="2105956" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/inspecting-the-space-stations-expandable-habitat</guid>
+ <pubDate>Wed, 12 Oct 2016 10:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>

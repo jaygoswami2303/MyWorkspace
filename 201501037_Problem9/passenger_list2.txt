@@ -1,0 +1,20 @@
+Senior Citizen,1,D,G
+Senior Citizen,2,A,C
+Senior Citizen,3,A,G
+Senior Citizen,4,A,G
+Senior Citizen,5,A,F
+Senior Citizen,6,C,G
+Senior Citizen,7,A,G
+Senior Citizen,8,A,G
+Senior Citizen,9,B,G
+Senior Citizen,10,A,G
+Senior Citizen,11,A,G
+Senior Citizen,12,A,G
+Senior Citizen,13,A,G
+Senior Citizen,14,A,G
+Senior Citizen,15,A,G
+Senior Citizen,16,A,G
+Senior Citizen,17,A,G
+Child,18,A,G
+Adult,19,A,G
+Adult,20,A,G

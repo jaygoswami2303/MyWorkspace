@@ -1,0 +1,25 @@
+Mary Robinson
+Authority yes
+female
+32
+B-14 James, Avenue
+Dorothy Dickson
+Authority no
+female
+53
+C/34, Reed Street
+Charles Crusoe
+Authority no
+male
+39
+B-19 James, Avenue
+Peter Jackson
+Authority yes
+male
+14
+17/24, Park Street
+Joe Robinson
+Authority yes
+male
+24
+B-14 James, Avenue

@@ -1,0 +1,6 @@
+5
+Mary Robinson,12345678,50000,B-14 James, Avenue
+Dorothy Dickson,abcdefgh,30000,C/34, Reed Street
+Charles Crusoe,00000000,10000,B-19 James, Avenue
+Peter Jackson,12345677,25000,17/24, Park Street
+Joe Robinson,87654321,70000,B-14 James, Avenue

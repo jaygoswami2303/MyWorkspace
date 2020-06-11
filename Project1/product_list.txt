@@ -1,0 +1,13 @@
+12
+TV,40000,Electronics,23
+Fridge,25000,Kitchen,12
+Laptop,35000,Electronics,30
+Bike,5000,Excercise,8
+Micro Wave,7000,Kitchen,9
+TreadMill,8000,Excercise,6
+Mobile,10000,Electronics,50
+Shoes,2500,Fashion,20
+Jeans,1500,Fashion,14
+Headphone,1000,Electronics,17
+Bed,25000,Furniture,5
+Air Conditioner(AC),27000,Home,23
